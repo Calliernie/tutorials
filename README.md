@@ -1,2 +1,2 @@
 # tutorials
-A set javascript tutorials for later reference
+A set of javascript tutorials for later reference
