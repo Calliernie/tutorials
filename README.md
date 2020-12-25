@@ -1,2 +1,2 @@
 # tutorials
-A set of react tutorials for later reference
+A set javascript tutorials for later reference
